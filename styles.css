@@ -52,10 +52,11 @@ html {
     list-style-type: none;
 }
 
-#main {
-    /*display: flex;*/
-    /*flex-direction: column;*/
-}
+/*#main {
+    display: flex;
+    flex-direction: column;
+}*/
+
 @media (min-width: 640px) {
     #main {
         max-width: 640px;
